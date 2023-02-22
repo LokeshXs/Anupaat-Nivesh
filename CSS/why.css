@@ -12,11 +12,14 @@ html {
   /* 1 rem = 10px */
   font-size: 62.5%;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 /* ********************************************************** */
 /* Header */
 /* ********************************************************** */
+
+
 .go-up-icon{
 font-size: 4rem;
 position: fixed;
